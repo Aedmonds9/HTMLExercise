@@ -1,0 +1,28 @@
+body
+{
+text-align: center;
+text-decoration: overline;
+cursor: progress;
+background-image: url("images/images\ \(1\).jpg");
+
+h1
+{
+  color: rgb(182, 160, 187);
+}
+#para1
+{
+text-transform: capitalize;
+color: rgb(182, 160, 187);
+}
+
+p
+{
+color: rgb(182, 160, 187);
+text-decoration:wavy;
+}
+
+
+
+
+
+
